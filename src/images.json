@@ -3,96 +3,96 @@
       "id": 1,
       "name": "Image1",
       "clicked": false,
-      "image": "/img/bruce1.jpg"
+      "image": "./img/bruce1.jpg"
     },
     {
       "id": 2,
       "name": "Image2",
       "clicked": false,
-      "image": "/img/bruce2.jpg"
+      "image": "./img/bruce2.jpg"
     },
     {
       "id": 3,
       "name": "Image3",
       "clicked": false,
-      "image": "/img/bruce3.jpg"
+      "image": "./img/bruce3.jpg"
     },
     {
       "id": 4,
       "name": "Image4",
       "clicked": false,
-      "image": "/img/bruce4.jpeg"
+      "image": "./img/bruce4.jpeg"
     },
     {
       "id": 5,
       "name": "Image5",
       "clicked": false,
-      "image": "/img/bruce5.jpeg"
+      "image": "./img/bruce5.jpeg"
     },
     {
       "id": 6,
       "name": "Image6",
       "clicked": false,
-      "image": "/img/bruce6.jpg"
+      "image": "./img/bruce6.jpg"
     },
     {
       "id": 7,
       "name": "Image7",
       "clicked": false,
-      "image": "/img/bruce7.jpg"
+      "image": "./img/bruce7.jpg"
     },
     {
       "id": 8,
       "name": "Image8",
       "clicked": false,
-      "image": "/img/bruce8.jpg"
+      "image": "./img/bruce8.jpg"
     },
     {
       "id": 9,
       "name": "Image9",
       "clicked": false,
-      "image": "/img/bruce9.jpeg"
+      "image": "./img/bruce9.jpeg"
     },
     {
       "id": 10,
       "name": "Image10",
       "clicked": false,
-      "image": "/img/bruce10.jpeg"
+      "image": "./img/bruce10.jpeg"
     },
     {
       "id": 11,
       "name": "Image11",
       "clicked": false,
-      "image": "/img/bruce11.jpg"
+      "image": "./img/bruce11.jpg"
     },
     {
       "id": 12,
       "name": "Image12",
       "clicked": false,
-      "image": "/img/bruce12.jpg"
+      "image": "./img/bruce12.jpg"
     },
     {
         "id": 13,
         "name": "Image13",
         "clicked": false,
-        "image": "/img/bruce13.jpeg"
+        "image": "./img/bruce13.jpeg"
       },
       {
         "id": 14,
         "name": "Image14",
         "clicked": false,
-        "image": "/img/bruce14.jpeg"
+        "image": "./img/bruce14.jpeg"
       },
       {
         "id": 15,
         "name": "Image15",
         "clicked": false,
-        "image": "/img/bruce15.jpeg"
+        "image": "./img/bruce15.jpeg"
       },
       {
         "id": 16,
         "name": "Image16",
         "clicked": false,
-        "image": "/img/bruce16.jpeg"
+        "image": "./img/bruce16.jpeg"
       }
   ]
