@@ -1,6 +1,6 @@
 # :fire: Enter-the-Dragon-Memory-Challenge :fire:
 
-[try it here] (https://pfrancis113.github.io/react-memory-game/)
+[try it here](https://pfrancis113.github.io/react-memory-game/)
 
 > Click on a different card every time, but don't click the same one...
 
